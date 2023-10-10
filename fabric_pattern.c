@@ -7,7 +7,7 @@ int main() {
     char startChar;
     int numRows, numCols;
     
-    // PART INPUT 
+    // PART INPUT
     printf("Enter the starting Charr (A-Z): ");
     scanf(" %c", &startChar);
     printf("Enter the number of Rows: ");
